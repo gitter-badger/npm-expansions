@@ -1,5 +1,7 @@
 # npm-expansions
 
+[![Join the chat at https://gitter.im/empyrical/npm-expansions](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/empyrical/npm-expansions?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 What does n-p-m stand for?
 
 ## What
